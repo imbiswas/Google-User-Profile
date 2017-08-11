@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856918206516",
+    "project_id": "educationexplorer-175008"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856918206516:android:01b700bd368b1f51",
+        "android_client_info": {
+          "package_name": "com.imagination.biswas.profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856918206516-f9fq7kr43c13b2f3horjana4kt05pk9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "856918206516-94s9b1jnv81jsja1sj4bhme3gj8gchbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imagination.biswas.profile",
+            "certificate_hash": "d9524667cabbaae5e526f92da0f54e180fd9ccab"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPUGe5Lp82YXJAWbxqCveqhBCW0B82c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

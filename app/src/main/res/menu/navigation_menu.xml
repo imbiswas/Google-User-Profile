@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@mipmap/ic_home_black_24dp"></item>
+    <item android:id="@+id/my_Profile"
+        android:title="My Profile"
+        android:icon="@mipmap/ic_account_circle_black_24dp"></item>
+    <item android:id="@+id/blogs"
+        android:title="Blogs"
+        android:icon="@mipmap/ic_book_black_24dp"></item>
+    <item android:id="@+id/about_us"
+        android:title="About Us"
+        android:icon="@mipmap/ic_accessibility_black_24dp"></item>
+    <item android:id="@+id/help"
+        android:title="Help"
+        android:icon="@mipmap/ic_help_black_24dp"></item>
+    <item android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@mipmap/ic_settings_black_24dp"></item>
+</menu>
